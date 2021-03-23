@@ -1,4 +1,4 @@
-module github.com/jsiebens/fanshim-go
+module github.com/lukaszraczylo/fanshim-go
 
 go 1.15
 
