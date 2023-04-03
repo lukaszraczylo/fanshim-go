@@ -9,7 +9,7 @@ import (
 	"syscall"
 
 	"github.com/jasonlvhit/gocron"
-	"github.com/jsiebens/fanshim-go/pkg"
+	"github.com/lukaszraczylo/fanshim-go/pkg"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/shirou/gopsutil/v3/cpu"
 	"github.com/shirou/gopsutil/v3/host"
